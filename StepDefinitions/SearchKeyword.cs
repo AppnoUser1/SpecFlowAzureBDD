@@ -18,7 +18,7 @@ namespace SpecFlowDemoBDD.StepDefinitions
         [Given(@"user opens chrome browser")]
         public void GivenUserOpensChromeBrowser()
         {
-            driver.Url = "https://www.google.ca/";
+            driver.Url = "https://www.google.com/";
         }
 
 

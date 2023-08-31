@@ -7,4 +7,4 @@ Scenario: Google home page basic search test
 	Examples:
 	| keyword         |
 	| Selenium        |
-	| Test Automation |
+	| Selenium		  |
